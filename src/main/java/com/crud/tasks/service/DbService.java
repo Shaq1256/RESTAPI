@@ -5,6 +5,7 @@ import com.crud.tasks.repository.TaskRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.security.acl.LastOwnerException;
 import java.util.List;
 
 @Service
@@ -15,4 +16,10 @@ public class DbService {
     public List<Task> getAllTasks() {
         return repository.findAll();
     }
+
+    public Task getOneTask(Long idTask) {
+        return repository.findById(idTask).get();
+    }
+
+
 }
