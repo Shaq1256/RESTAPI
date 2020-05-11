@@ -1,4 +1,4 @@
-package ThinkingInJava.roz4.Enum;
+package ThinkingInJava.roz4.eenum;
 
 public class Main {
     public static void main(String[] args) {

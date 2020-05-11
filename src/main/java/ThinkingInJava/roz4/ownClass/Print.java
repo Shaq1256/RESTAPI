@@ -1,4 +1,4 @@
-package ThinkingInJava.roz4.OwnClass;
+package ThinkingInJava.roz4.ownClass;
 
 import java.io.PrintStream;
 

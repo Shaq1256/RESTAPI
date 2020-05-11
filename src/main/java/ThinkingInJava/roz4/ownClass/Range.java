@@ -1,4 +1,4 @@
-package ThinkingInJava.roz4.OwnClass;
+package ThinkingInJava.roz4.ownClass;
 
 public class Range {
     public static int[] range(int n) {
