@@ -1,4 +1,4 @@
-package ThinkingInJava.roz4.eenum;
+package ThinkingInJava.eenum;
 
 public enum Banknoty {
         DOLARY, EURO, ZLOTY, FUNTY, YENY

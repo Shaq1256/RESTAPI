@@ -1,6 +1,6 @@
-package ThinkingInJava.roz4.ownClass;
+package ThinkingInJava.ownClass;
 
-import static ThinkingInJava.roz4.ownClass.Print.*;
+import static ThinkingInJava.ownClass.Print.*;
 
 public class Main {
     public static void main(String[] args) {

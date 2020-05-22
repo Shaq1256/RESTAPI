@@ -1,4 +1,4 @@
-package ThinkingInJava.roz4.protect;
+package ThinkingInJava.protect;
 
 public class Fruits extends PrepareFruits{
     public Fruits() {

@@ -1,4 +1,4 @@
-package ThinkingInJava.roz4.eenum;
+package ThinkingInJava.eenum;
 
 public class Bank {
     Banknoty kasa;
