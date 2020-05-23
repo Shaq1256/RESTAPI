@@ -2,7 +2,7 @@ package kodilla.average;
 
 import java.util.Random;
 
-public class avg {
+public class Avg {
 
     public static void main(String[] args) {
         int sum = 0;
