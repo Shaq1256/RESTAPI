@@ -60,5 +60,7 @@ public class CollectionTestSuite {
 
         //Then
         Assert.assertEquals(testList , listEvenNumbers.exterminate(listNumbers));
+        System.out.println("Size of the list: " + listNumbers.size());
+        System.out.println("Size of the test list: " + testList.size());
     }
 }
